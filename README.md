@@ -1,2 +1,107 @@
 # UniBank
 Trabalho de modelagem
+# Projeto UniversityBank
+Projeto em desenvolvimento na UC de Modelagem de software
+
+
+![Sem título](https://user-images.githubusercontent.com/89614679/137410501-78e07399-aba2-4ec8-a02b-45e34ddde286.png)
+
+
+# Sobre o Projeto
+
+
+
+
+![logotipo](https://user-images.githubusercontent.com/89614679/137416805-d3e4d94c-47cf-4039-8a50-652e6807c350.png)
+
+# Banco voltado para estudantes com foco primordial em ajudar a conquistar o futuro daqueles que sempre procuram o melhor.
+
+
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
+
+
+# Índice/Sumário
+
+* [Sobre](#sobre-o-projeto)
+* [Requisitos Funcionais](#requisitos-funcionais)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
+* [Autores](#autores)
+* [Licença](#licença)
+* [Agradecimentos](#agradecimentos)
+* [Trilha](#trilha-do-projeto)
+
+
+
+
+# Tecnologias Usadas
+
+- [Flutter](https://flutter.dev/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+
+
+
+
+
+
+
+
+# Trilha do projeto
+
+# O UniversityBank e uma iniciativa voltada para a acessibilidade estudantil , visando gerar mais oportunidades e cuidar da saude financeira e academica de nossos clientes.
+ # financiamentos e ajudas de custos sao um dos varios recursos que pretendemos implantar parar gerar mais profissionais para o mercado trabalhando para que o cliente se preocupe apenas com a sua vida academica. 
+ # criando um ecosistema onde todos ganham, visando que o Brasil um dia seja referencia nesse tipo de investimento.
+
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
+
+
+
+
+# Requisitos Funcionais 
+
+- [x] **Gerenciamento de usuarios**
+- [x] **Dados Pessoais**
+- [x] **comsultoria de Financiamento**
+- [x] **Relatorios**
+- [x] **Atendentes com Suporte ao Usuario**
+- [x] **formalização do Comtrato**
+- [x] **Cadastramento da Biometria**
+
+# Tecnologias Usadas
+
+- [Flutter](https://flutter.dev/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+# Contribuição
+
+Leia o arquivo [CONTRIBUTING.md](Contributing.md) 
+
+# Autores
+
+[💻Cecilia](https://github.com/Ceduda23)
+[💻Lindeia](https://github.com/Lindeia)
+[💻Lider Yago](https://github.com/yagohpt11221)
+[💻Gabriel](https://github.com/Gabriel21Oliver)
+[💻Ester](https://github.com/Estermaiag)
+
+
+# Licença
+
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](License.md) para mais detalhes.
+
+# Agradecimentos
+Agradecimento a toda equipe que participou e realizou o trabalho, Ester, Gabriel Vitor, Lindeia, Cecília e Yago.
+
